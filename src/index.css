@@ -146,7 +146,7 @@ flex-direction: column-reverse;
   width:10rem;
   display: flex;
   align-items: flex-end;
-  justify-content: end;
+  justify-content: flex-end;
  }
  .p1 > p{
   text-align: left;
